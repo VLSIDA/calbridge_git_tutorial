@@ -11,9 +11,9 @@ The tutorial slides are available [here](https://docs.google.com/presentation/d/
 Your tasks are to:
 1. Clone this repository.
 1. Copy the participant template file (Template.md) and name it with your name.
-1. Add an image for your page in the images directory.
+1. Add an image of your choice in the images directory.
 1. Link to the image from your page using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-1. Add some other interesting content to your slides.
+1. Add some other interesting content to your page.
 1. Add your name and a link to your page on the main README.md file.
 
 ## Instructors
