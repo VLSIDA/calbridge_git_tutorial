@@ -1,2 +1,8 @@
-# calbridge_git_tutorial
-Demo page for the CalBridge git tutorial
+# Calbridge tutorial demo
+
+## Instructors
+[Matthew Guthaus](./Matthew.md)
+[Kathy Kanemoto](./Kathy.md)
+
+## Particpants
+[First Last](./Template.md)
