@@ -16,11 +16,11 @@ Your tasks are to:
 1. Add some other interesting content to your page.
 1. Add your name and a link to your page on the main README.md file.
 
-Asnwer the following questions using git (and unix?) commands:
+After this, we will break into two groups and asnwer the following questions using git (and unix?) commands:
 1. Who was the first to commit their own copy of the template?
 1. Who made the most commits?
-1. What is the branch name in origin?
-1. What is hidden in the branch?
+1. I've hidden a secret in a branch. What is this branch name?
+1. What is hidden in the branch and how can you find it??
 
 ## Instructors
 * [Matthew Guthaus](./Matthew.md)
