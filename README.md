@@ -19,7 +19,7 @@ Your tasks are to:
 After this, we will break into two groups and asnwer the following questions using git (and unix?) commands:
 1. Who was the first to commit their own copy of the template?
 1. Who made the most commits?
-1. I've hidden a secret in a branch. What is this branch name?
+1. I've hidden something in a branch. What is this branch name?
 1. What is hidden in the branch and how can you find it??
 
 ## Instructors
