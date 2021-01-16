@@ -31,5 +31,5 @@ Answer the following questions using git (and unix?) commands:
 
 ## Particpants
 * [First Last](./Template.md)
+* [Laura McGann](./LauraM.md)
 * [Mugen Blue](./MugenBlue.md)
-
