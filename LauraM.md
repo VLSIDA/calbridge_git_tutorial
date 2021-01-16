@@ -1,2 +1,3 @@
+This is me!
 
-# Student Template
+<img width="100%" src="images/Laura_pic.png"/>
