@@ -31,6 +31,7 @@ Answer the following questions using git (and unix?) commands:
 
 ## Particpants
 * [First Last](./Template.md)
+* [Markus Moore](./Markus.md)
 * [Laura McGann](./LauraM.md)
 * [Mugen Blue](./MugenBlue.md)
 * [Dhanush Karthikeyan](./stannis.md)
