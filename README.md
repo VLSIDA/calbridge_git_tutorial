@@ -34,3 +34,4 @@ Answer the following questions using git (and unix?) commands:
 * [Markus Moore](./Markus.md)
 * [Laura McGann](./LauraM.md)
 * [Mugen Blue](./MugenBlue.md)
+* [Dhanush Karthikeyan](./stannis.md)
