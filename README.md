@@ -35,4 +35,4 @@ Answer the following questions using git (and unix?) commands:
 * [Laura McGann](./LauraM.md)
 * [Mugen Blue](./MugenBlue.md)
 * [Dhanush Karthikeyan](./stannis.md)
-* [Abdulla Mammadsoy](./PCaspian.md)
+* [Abdulla Mammadsoy](./AbdullaS.md)
