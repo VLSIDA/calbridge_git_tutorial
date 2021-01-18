@@ -2,6 +2,4 @@
 # Student Template
 
 Abdulla S. 
-
-![alt NEOWISE] [comet]
-[comet](/images/comet3 (2).jpg)
+![NEOWISE](https://github.com/VLSIDA/calbridge_git_tutorial/blob/main/images/comet3%20(2).jpg?raw=true)
