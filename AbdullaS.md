@@ -2,4 +2,5 @@
 # Student Template
 
 Abdulla S. 
-![Abdulla S Photo](/images/comet3 (2).jpg)
+![comet3 (2)](/images/comet3 (2).jpg)
+
